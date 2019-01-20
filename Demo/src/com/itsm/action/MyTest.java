@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	Integer lp=128;
 	
 	
-	
+	System.out.println(li);
 }	
 	
 }
